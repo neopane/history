@@ -1,0 +1,24 @@
+    1  sudo su -
+    2  pwd
+    3  mdkir lab1.11-24-2018
+    4  mkdir lab1.11-24-2018
+    5  cd lab1.11-24-2018/
+    6  touch test1
+    7  git init
+    8  git add .
+    9  git commit -m "adding first file"
+   10  git config --global user.email "dn11kb@gmail.com"
+   11  git config --global user.name "devkamal"
+   12  git commit -m "adding first file"
+   13  git remote add origin https://github.com/neopane/test.git
+   14  git push -u origin master
+   15  git clone https://github.com/neopane/test.git
+   16  ls
+   17* 
+   18  more test1
+   19  ls
+   20  cd test
+   21  ls
+   22  more test1
+   23  history
+   24  history >> /home/godevi/myhistory.txt

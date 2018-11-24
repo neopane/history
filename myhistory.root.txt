@@ -1,0 +1,106 @@
+    1  id
+    2  yum groupinstall "development tools"
+    3  ls
+    4  ls -l confi*
+    5  yum install zlib1g-dev
+    6  yum install gettext-devel openssl-devel perl-CPAN perl-devel zlib-devel
+    7  make configure
+    8  git config --global user.name "devkamal"
+    9  git config --global user.email "dn11kb@gmail.com"
+   10  ./configure -prefix=/home/godevi
+   11  cd /home
+   12  ls
+   13  pwd
+   14  clear
+   15  ifconfig -a
+   16  ip add show
+   17  yum install github
+   18  yum install github*
+   19  rpm -q github
+   20  rpm -qa github
+   21  rpm -qa | grep -i githu
+   22  clear
+   23  git --version
+   24  yum install git
+   25  git --version
+   26  clear
+   27  git --version
+   28  which git
+   29  cd /bin/centos
+   30  cd /bin/centos7
+   31  whereis git
+   32  cd /usr/share/man/man1
+   33  ls
+   34  whereis git
+   35  make configure
+   36  pwd
+   37  cd git.1.gz
+   38  ls
+   39  ls -l git*
+   40  ls -l git.1.gz
+   41  ls -lh git.1.gz
+   42  tar -xvzf git.1.gz 
+   43  gunzip git1.gz
+   44  gunzip git.1.gz
+   45  ls -l git.1
+   46  cat git.1
+   47  make configure
+   48  vi git.1
+   49  ls -l git.1*
+   50  ls -l git*
+   51  yum replist
+   52  yum repo list
+   53  yum repolist
+   54  git
+   55  git --version
+   56  git -v
+   57  git -V
+   58  git config --global user.name "devkamal"
+   59  git config --global user.email "dn11kb@gmail.com"
+   60  cd
+   61  ls -la
+   62  vi .bashrc
+   63  vi ./bash_profile
+   64  ./configure -prefix=/home/devkamal
+   65  cd /home
+   66  ls
+   67  ls -l
+   68  cd -
+   69  pwd
+   70  whereis git
+   71  cd /usr/share/man/man1
+   72  ./comfiure -prefix=/home/godevi
+   73  ./confiure -prefix=/home/godevi
+   74  ./configure -prefix=/home/godevi
+   75  pqs
+   76  pwd
+   77  ls -l conf*
+   78  man wget
+   79  yum install wget
+   80  man wget
+   81  wget https://github.com/git/git/archive/v2.7.2.tar.gz -O git.tar.gz
+   82  ls -l git.tar.gz
+   83  gunzip git.tar.gz
+   84  ls -l git.tar.gz
+   85  ls -l git.tar
+   86  tar -xvf git.tar
+   87  ls
+   88  cd git.1
+   89  cd git.2
+   90  cd cd git-2.7.2
+   91  cd git-2.7.2
+   92  ls
+   93  make configure
+   94  git config --global user.name "devkamal"
+   95  git config --global user.email "dn11kb@gmail.com"
+   96  ./configure -prefix=/home/godevi
+   97  ls -l configure*
+   98  vi configure.ac
+   99  df -h
+  100  yum install make
+  101  make configure
+  102  make --configure
+  103  bsdh
+  104  bash
+  105  history
+  106  history >> /home/godevi/myhistory.root.txt
